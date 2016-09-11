@@ -25,7 +25,7 @@ class Person
   #have a `to_s` method to return a formatted string of the person's name
   def to_s
     #return a formatted string as `first_name(space)last_name`
-    "#{first_name}(space)#{last_name}"
+    "#{first_name} #{last_name}"
   end
 end
 
