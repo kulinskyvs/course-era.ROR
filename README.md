@@ -5,6 +5,7 @@ Ruby on Rails training during coursera [specialization](https://www.coursera.org
 The repository is intended to store the tasks done during studing of all the courses of [Ruby on Rails](https://www.coursera.org/specializations/ruby-on-rails).
 
 * **m1.introduction** - first course: [Ruby on Rails: An Introduction](https://www.coursera.org/learn/ruby-on-rails-intro), 
+  * [module 1 course git repository](https://github.com/jhu-ep-coursera/fullstack-course1-module1)
   * [module 2 course git repository](https://github.com/jhu-ep-coursera/fullstack-course1-module2)
   * [module 3 course git repository](https://github.com/jhu-ep-coursera/fullstack-course1-module3)
 * **m2.active-record** - second course: [Rails with Active Record and Action Pack](https://www.coursera.org/learn/rails-with-active-record) 
