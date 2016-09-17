@@ -12,5 +12,5 @@ The repository is intended to store the tasks done during studing of all the cou
 * **m3.mongo** - third course: [Ruby on Rails Web Services and Integration with MongoDB](https://www.coursera.org/learn/ruby-on-rails-web-services-mongodb) 
 * **m4.web** - third course: [HTML, CSS и Javascript for web developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
   * [course git repository](https://github.com/jhu-ep-coursera/fullstack-course4)
-* **m5.angularJS** - third course: [Single Page Web Applications with AngularJS](https://www.coursera.org/learn/ruby-on-rails-intro) 
+* **m5.angularJS** - third course: [Single Page Web Applications with AngularJS](https://github.com/jhu-ep-coursera/fullstack-course5) 
 
