@@ -1,0 +1,19 @@
+ <section class="row">
+
+  <div class="menu-block" ng-repeat="menuItem in list.menuItems">
+
+     <div class="panel panel-default">
+       <div class="panel-body">
+        <ul>
+          <li>{{ menuItem.name }}</li>
+          <li>{{ menuItem.short_name }}</li>
+          <li>{{menuItem.description }}</li>
+        </ul>
+      </div>
+      <button class="btn" ng-click="list.onRemove({index: $index})">Don't want this one!</button>
+    </div>
+
+  </div>
+
+  <div class="error" ng-if="list.isEmpty()">Nothing found</div>
+</section>
